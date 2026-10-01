@@ -1,0 +1,14 @@
+C:\Voroshilov_pr41\trpo_5_voroshilov\obj\Debug\net8.0\trpo_5_voroshilov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Voroshilov_pr41\trpo_5_voroshilov\obj\Debug\net8.0\trpo_5_voroshilov.AssemblyInfoInputs.cache
+C:\Voroshilov_pr41\trpo_5_voroshilov\obj\Debug\net8.0\trpo_5_voroshilov.AssemblyInfo.cs
+C:\Voroshilov_pr41\trpo_5_voroshilov\obj\Debug\net8.0\trpo_5_voroshilov.csproj.CoreCompileInputs.cache
+C:\Voroshilov_pr41\trpo_5_voroshilov\bin\Debug\net8.0\trpo_5_voroshilov.exe
+C:\Voroshilov_pr41\trpo_5_voroshilov\bin\Debug\net8.0\trpo_5_voroshilov.deps.json
+C:\Voroshilov_pr41\trpo_5_voroshilov\bin\Debug\net8.0\trpo_5_voroshilov.runtimeconfig.json
+C:\Voroshilov_pr41\trpo_5_voroshilov\bin\Debug\net8.0\trpo_5_voroshilov.dll
+C:\Voroshilov_pr41\trpo_5_voroshilov\bin\Debug\net8.0\trpo_5_voroshilov.pdb
+C:\Voroshilov_pr41\trpo_5_voroshilov\obj\Debug\net8.0\trpo_5_voroshilov.dll
+C:\Voroshilov_pr41\trpo_5_voroshilov\obj\Debug\net8.0\refint\trpo_5_voroshilov.dll
+C:\Voroshilov_pr41\trpo_5_voroshilov\obj\Debug\net8.0\trpo_5_voroshilov.pdb
+C:\Voroshilov_pr41\trpo_5_voroshilov\obj\Debug\net8.0\trpo_5_voroshilov.genruntimeconfig.cache
+C:\Voroshilov_pr41\trpo_5_voroshilov\obj\Debug\net8.0\ref\trpo_5_voroshilov.dll
